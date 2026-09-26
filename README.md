@@ -17,7 +17,7 @@
 
 Welcome to WiiDesk! You should read this before you use it.
 
-# BEFORE READING THE REST
+# Good stuff to know
 
 1. If you experience any glitches like sound not playing or stuff is missing, press ESC on your keyboard. This will open the Pause Menu
 
@@ -27,7 +27,8 @@ This will reset the menu and basically refresh it
 
 2. You can change Disc Channel's target directory (default: C drive).
 
-Changing the name of any of the default channels will reset its icon
+> [!CAUTION]
+> Changing the name of any of the default channels will reset its icon
 
 3. WiiDesk does not open instantly when logging onto your Windows account. Takes 3-15 secs to launch
 
@@ -47,43 +48,45 @@ This will show the Windows Task Manager, you may terminate the WiiDesk task from
 
 3. That should be it
 
-A `.bat` file will also appear for toggling WiiDesk AutoLaunch
+> [!IMPORTANT]
+> A `.bat` file will also appear for toggling WiiDesk AutoLaunch
 
 # WiiDesk Menu
 
 nice now you're in the menu now
 
-The following guides will be done in the Channel Manager
+> [!IMPORTANT]
+> The following guides will be done in the Channel Manager
 
 ## To create a channel:
 
-1. Click the Wii button located on the bottom left
+1. Click Add Channel
 
-2. Click on Manage Channels
+2. Add a name for your coolswag epic channel
 
-3. Click Add Channel
+3. Pick a channel icon by picking an image file from your drive (make sure it's 512x288 for the best results)
 
-4. Add a name for your coolswag epic channel
+4. Upload a preview image (same as step 5)
 
-5. Pick a channel icon by picking an image file from your drive (make sure it's 512x288 for the best results)
+5. Choose some music (same as step 5)
 
-6. Upload a preview image (same as step 5)
-
-7. Choose some music (same as step 5)
-
-8. Choose what it'll do on open (if you leave it blank you won't be able to open it)
+6. Choose what it'll do on open (if you leave it blank you won't be able to open it)
 
 You can choose to make it open a web link, just make sure you include `https://` at the start
 
 For an app you must find your program's executable path and paste it in
 
-There is no limit to how many channels you create
+> [!NOTE]
+> There is no limit to how many channels you create
 
 ## To delete a channel:
 
 1. Hover over the channel
 
-2. Click the red X (**can't be undone!**)
+2. Click the red X
+
+> [!CAUTION]
+> This action can't be undone
 
 ## To edit a channel:
 
@@ -105,7 +108,10 @@ There is no limit to how many channels you create
 
 Both channels will swap slots
 
-## To reset EVERYTHING (can't be undone!)
+## To reset everything
+
+> [!CAUTION]
+> This action can't be undone
 
 1. Click the Reset button in Channel Manager
 
