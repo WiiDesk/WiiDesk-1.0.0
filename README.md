@@ -1,3 +1,18 @@
+# Table of Contents
+- [WiiDesk Operations Manual](#wiidesk-operations-manual)
+- [BEFORE READING THE REST](#before-reading-the-rest)
+- [Installing WiiDesk](#installing-wiidesk)
+- [WiiDesk Menu](#wiidesk-menu)
+  - [To create a channel:](#to-create-a-channel)
+  - [To delete a channel:](#to-delete-a-channel)
+  - [To edit a channel:](#to-edit-a-channel)
+  - [To move a channel:](#to-move-a-channel)
+    - [Method 1](#method-1)
+    - [Method 2 (recommended)](#method-2-recommended)
+  - [To reset EVERYTHING (can't be undone!)](#to-reset-everything-cant-be-undone)
+- [That's it folks!](#thats-it-folks)
+
+
 # WiiDesk Operations Manual
 
 Welcome to WiiDesk! You should read this before you use it.
